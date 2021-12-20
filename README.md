@@ -41,8 +41,8 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 * Microsoft Windows
 * Linux (mainly Ubuntu)
 
-## Languages & Frameworks
-### Current
+### Languages & Frameworks
+#### Current
 
 * Python
 * PHP
@@ -56,8 +56,8 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 * Groovy
 * Spring Boot
 
-## Tools
-### Current
+### Tools
+#### Current
 
 * Git
 * Nextcloud
