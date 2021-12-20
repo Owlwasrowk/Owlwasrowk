@@ -46,9 +46,7 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 
 * Python
 * PHP
-
 * Laravel
-* Bootstrap
 
 ### Older
 
@@ -56,7 +54,6 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 * R
 * SQL
 * Groovy
-
 * Spring Boot
 
 ## Tools
