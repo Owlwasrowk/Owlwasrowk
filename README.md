@@ -43,25 +43,32 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 
 ## Languages & Frameworks
 ### Current
+
 * Python
 * PHP
 
 * Laravel
 * Bootstrap
+
 ### Older
+
 * Java
 * R
 * SQL
 * Groovy
 
 * Spring Boot
+
 ## Tools
 ### Current
+
 * Git
 * Nextcloud
 * Firefox
 * MS Office
 * LibreOffice
 * IntelliJ and Storm
+
 ### Older
+
 * Eclipse
