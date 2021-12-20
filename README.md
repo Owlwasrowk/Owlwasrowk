@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Simon and i'm currently working on my bachelor degree in the Digital Humanities at the University of Leipzig. Besides the study I work at Increase Your Skills for cyber awareness products, where i can get insights about web developing with the full stack framework Laravel.
+
 ## Education
 
 - **Bachelor of Science** (ongoing), Digital Humanities, University of Leipzig
@@ -33,3 +35,5 @@ Here are some ideas to get you started:
 * Implementation of smaller tools in Java
 * Creating automated UI-Tests with Katalon
 * Integrating the automated test to a build pipeline
+
+## Software Development (current)
