@@ -30,12 +30,12 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 
 ## Professional Experience
 
-### 06/2021 - current: Working student for Software Development, Increase Your Skills GmbH, Leipzig
+### 06.2021 - current: Working student for Software Development, Increase Your Skills GmbH, Leipzig
 
 * Developing new features for a full stack Laravel application
 * Maintaning the application with automated UI-Tests
 
-### 05/2017 - 12/2018: Working student for Software Development, EXXETA GmbH, Leipzig
+### 05.2017 - 12.2018: Working student for Software Development, EXXETA GmbH, Leipzig
 
 * Implementation of smaller tools in Java
 * Creating automated UI-Tests with Katalon
