@@ -47,30 +47,27 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 * Linux (mainly Ubuntu)
 
 ### Languages & Frameworks
-#### Current
 
+#### Current
 * Python
 * PHP
 * Laravel
-
 #### Older
-
 * Java
 * R
 * SQL
 * Groovy
 * Spring Boot
-
 ### Tools
 #### Current
-
 * Git
 * Nextcloud
 * Firefox
 * MS Office
 * LibreOffice
 * IntelliJ and PhpStorm
-
 #### Older
-
 * Eclipse
+
+## Misc
+* 07.10.2021: [Talk](https://ag-link.xyz/event/2021/10/07/Open-Source-fuers-Studium.html) about open-source software for new students at the critical introdcutions weeks 
