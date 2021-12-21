@@ -69,7 +69,7 @@ My name is Simon and i'm currently working on my bachelor degree in the Digital 
 * Firefox
 * MS Office
 * LibreOffice
-* IntelliJ and Storm
+* IntelliJ and PhpStorm
 
 #### Older
 
