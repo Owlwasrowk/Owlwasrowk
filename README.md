@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 My name is Simon and i'm currently working on my bachelor degree in the Digital Humanities at the University of Leipzig. Besides the study I work at Increase Your Skills for cyber awareness products, where i can get insights about web development with the full stack framework Laravel.
 
+## Find me
+
+[![Mastodon](https://img.shields.io/mastodon/follow/000000980?domain=https%3A%2F%2Flediver.se&style=social)](https://lediver.se/@faulpelzhaendler)
+[![Codewars](https://www.codewars.com/users/kl%C3%B6ncvdf/badges/micro)](https://www.codewars.com/users/klöncvdf)
+
 ## Education
 
 - **Bachelor of Science** (ongoing), Digital Humanities, University of Leipzig
